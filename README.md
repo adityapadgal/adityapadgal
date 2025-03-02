@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityapadgal@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-padgal/overlay/1740528681236/single-media-viewer/?profileId=ACoAACUJkiQBUwZPpvt7zNsJ45yRK6paBLBOlOg](https://www.linkedin.com/in/aditya-padgal/overlay/1740528681236/single-media-viewer/?profileId=ACoAACUJkiQBUwZPpvt7zNsJ45yRK6paBLBOlOg)
+- 📄 Know about my experiences [Resume Link](https://www.linkedin.com/in/aditya-padgal/overlay/1740528681236/single-media-viewer/?profileId=ACoAACUJkiQBUwZPpvt7zNsJ45yRK6paBLBOlOg)
 
 - ⚡ Fun fact **I play soccer and I love to analyse player performance stats**
 
