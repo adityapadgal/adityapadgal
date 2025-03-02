@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Dev and Machine Learning Fusion**
 
-- 📫 How to reach me **adityapadgal@gmail.com**
+- 📫 How to reach me **adityapadgal@gmail.com** or **+1 930-333-4229**
 
 - 📄 Know about my experiences [Resume Link](https://www.linkedin.com/in/aditya-padgal/overlay/1740528681236/single-media-viewer/?profileId=ACoAACUJkiQBUwZPpvt7zNsJ45yRK6paBLBOlOg)
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/adityapadgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityapadgal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-padgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-padgal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityapadgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityapadgal" height="30" width="40" /></a>
+<a href="https://dev.to/adityapadgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityapadgal" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/adityapadgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityapadgal" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
