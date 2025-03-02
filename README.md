@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI Driven Software and Distributed Data Solutions**
 
-- 👨‍💻 All of my projects are available at [https://adityapadgal.github.io/portfolio/](https://adityapadgal.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Link Coming Soon..]<!---[https://adityapadgal.github.io/portfolio/](https://adityapadgal.github.io/portfolio/)-->
 
 - 💬 Ask me about **Web Dev and Machine Learning Fusion**
 
